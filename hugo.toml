@@ -1,5 +1,5 @@
 baseURL = 'https://thej2c3.github.io/'
-languageCode = 'en-us'
+languageCode = 'zh-tw'
 title = "J2C3's daily chit chat"
 theme = "LoveIt"
 
@@ -210,8 +210,8 @@ theme = "LoveIt"
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
-    GitHub = "https://github.com/theJ2C3"
-    Linkedin = "https://www.linkedin.com/in/chi-chen-chiao-1756601a5/"
+    GitHub = "theJ2C3"
+    Linkedin = "chi-chen-chiao-1756601a5/"
     Twitter = ""
     Instagram = ""
     Facebook = ""
